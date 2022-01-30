@@ -17,3 +17,10 @@ d = 8
 cattttt = c - d
 
 print("a and b")
+
+
+
+f = 10
+g = 8
+
+division_ = f/g
